@@ -5,6 +5,7 @@ public class Program {
 
         CashRegister register = new CashRegister("prices.txt", "discounts.txt");
         register.printReceipt("bar1.txt");
+        //test
 
     }
 
